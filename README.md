@@ -1,2 +1,3 @@
-# trusted-mini-agents
-See https://github.com/wlandau/trustedminiagents
+# MOVED
+
+Moved to <https://github.com/wlandau/trustedminiagents>.
